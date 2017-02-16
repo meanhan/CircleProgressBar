@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CircleProgressBar.iml" filepath="$PROJECT_DIR$/CircleProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleProgressBar/circleProgressBar.iml" filepath="$PROJECT_DIR$/circleProgressBar/circleProgressBar.iml" />
+    </modules>
+  </component>
+</project>
